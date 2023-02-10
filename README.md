@@ -2,7 +2,7 @@
 <h3 align="center">A Junior Cloud Engineer based in the UK</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jaybuckby&label=Profile%20views&color=0e75b6&style=flat" alt="jaybuckby" /> </p>
 
-<img align="center"  width="1000" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="center"  width="750" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 
