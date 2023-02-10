@@ -1,6 +1,6 @@
 <h1 align="center">Hi there!👋 I'm Jay Buckby</h1>
 <h3 align="center">A Junior Cloud Engineer based in the UK</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jaybuckby&label=Profile%20views&color=0e75b6&style=flat" alt="jaybuckby" /> </p>
+
 
 <p align="center" width="100%">
     <img width="33%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -67,3 +67,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaybuckby&show_icons=true&locale=en&layout=compact" alt="jaybuckby" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaybuckby&show_icons=true&locale=en" alt="jaybuckby" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jaybuckby&label=Profile%20views&color=0e75b6&style=flat" alt="jaybuckby" /> </p>
