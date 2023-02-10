@@ -13,17 +13,11 @@
 ---
 
 ### :earth_asia: Contact
-If you need to get in contact me you can find me here:
+Feel free to get in touch with me with any of the methods below!
 
-#### :computer: Coding
+
 [<img align="left" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][github]
-
-
-<br />
-
-#### :mega: Socials
-
-[<img align="left" alt="outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=outlook&logoColor=white" />][email]
+[<img align="left" alt="outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />][email]
 [<img align="left" alt="discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />][discord]
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
@@ -35,6 +29,7 @@ If you need to get in contact me you can find me here:
 [github]: https://github.com/JayBuckby/JayBuckby/
 [linkedin]:https://www.linkedin.com/in/jay-buckby/
 [email]:JJ.Buckby@hotmail.co.uk
+[discord]:JayFromTheUK#8744
 
 
 ---
