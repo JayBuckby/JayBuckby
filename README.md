@@ -31,9 +31,8 @@ Feel free to get in touch with me with any of the methods below!
 [email]:JJ.Buckby@hotmail.co.uk
 [discord]:JayFromTheUK#8744
 
-
 ---
-
+Through my discovery and journey into the coding world I have developed a profiency in the following langauges and applications, whilst also continuing to learn.
 ### :hammer_and_wrench: FullStack :
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="60"/>&nbsp;
