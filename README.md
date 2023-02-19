@@ -8,7 +8,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/JayBuckby?tab=repositories](https://github.com/JayBuckby?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/JayBuckby?tab=repositories)
 
 ---
 
